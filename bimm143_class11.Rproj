@@ -1,13 +1,1 @@
-Version: 1.0
-
-RestoreWorkspace: Default
-SaveWorkspace: Default
-AlwaysSaveHistory: Default
-
-EnableCodeIndexing: Yes
-UseSpacesForTab: Yes
-NumSpacesForTab: 2
-Encoding: UTF-8
-
-RnwWeave: Sweave
-LaTeX: pdfLaTeX
+This is my classwork from [BIMM-143[(https://bioboot.github.io/bimm143_W20/) winter 2020 quarter at UC San Diego. 
